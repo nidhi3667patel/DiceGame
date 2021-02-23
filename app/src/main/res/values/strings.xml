@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="btn_higher">HIGHER</string>
+    <string name="btn_lower">LOWER</string>
+    <string name="higher_desc">Compare Higher</string>
+    <string name="lower_desc">Compare Lower</string>
+    <string name="txt_versus">VS</string>
+    <string name="txt_Player">Player</string>
+    <string name="txt_CPU">CPU</string>
+    <string name="txt_Result"></string>
+</resources>
